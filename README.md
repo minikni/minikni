@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minikni
 - 👀 I’m interested in ... a beautiful girl
 - 🌱 I’m currently learning ... some language
-- 💞️ I’m looking to collaborate on ... a good company
+- 💞️ I’m looking to collaborate with... an amazing company
 - 📫 How to reach me ... not available now
 
 <!---
